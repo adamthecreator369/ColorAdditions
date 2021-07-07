@@ -1,0 +1,24 @@
+C:/Users/Student/source/repos/ColorAdditions/ColorAdditions/bin/Debug/ColorAdditions.exe.config
+C:/Users/Student/source/repos/ColorAdditions/ColorAdditions/bin/Debug/ColorAdditions.exe
+C:/Users/Student/source/repos/ColorAdditions/ColorAdditions/bin/Debug/ColorAdditions.pdb
+C:/Users/Student/source/repos/ColorAdditions/ColorAdditions/bin/Debug/ColorAdditions.xml
+C:/Users/Student/source/repos/ColorAdditions/ColorAdditions/obj/Debug/ColorAdditions.vbprojAssemblyReference.cache
+C:/Users/Student/source/repos/ColorAdditions/ColorAdditions/obj/Debug/ColorAdditions.Resources.resources
+C:/Users/Student/source/repos/ColorAdditions/ColorAdditions/obj/Debug/ColorAdditions.vbproj.GenerateResource.cache
+C:/Users/Student/source/repos/ColorAdditions/ColorAdditions/obj/Debug/ColorAdditions.vbproj.CoreCompileInputs.cache
+C:/Users/Student/source/repos/ColorAdditions/ColorAdditions/obj/Debug/ColorAdditions.exe
+C:/Users/Student/source/repos/ColorAdditions/ColorAdditions/obj/Debug/ColorAdditions.xml
+C:/Users/Student/source/repos/ColorAdditions/ColorAdditions/obj/Debug/ColorAdditions.pdb
+C:/Users/Student/source/repos/ColorAdditions/ColorAdditions/obj/Debug/ColorAdditions.ColorAdditionsForm.resources
+/Users/adamjost/Desktop/ColorAdditions_Grp1/ColorAdditions [source-code]/ColorAdditions/bin/Debug/ColorAdditions.exe.config
+/Users/adamjost/Desktop/ColorAdditions_Grp1/ColorAdditions [source-code]/ColorAdditions/bin/Debug/ColorAdditions.exe
+/Users/adamjost/Desktop/ColorAdditions_Grp1/ColorAdditions [source-code]/ColorAdditions/bin/Debug/ColorAdditions.pdb
+/Users/adamjost/Desktop/ColorAdditions_Grp1/ColorAdditions [source-code]/ColorAdditions/bin/Debug/ColorAdditions.xml
+/Users/adamjost/Desktop/ColorAdditions_Grp1/ColorAdditions [source-code]/ColorAdditions/obj/Debug/ColorAdditions.vbprojAssemblyReference.cache
+/Users/adamjost/Desktop/ColorAdditions_Grp1/ColorAdditions [source-code]/ColorAdditions/obj/Debug/ColorAdditions.ColorAdditionsForm.resources
+/Users/adamjost/Desktop/ColorAdditions_Grp1/ColorAdditions [source-code]/ColorAdditions/obj/Debug/ColorAdditions.Resources.resources
+/Users/adamjost/Desktop/ColorAdditions_Grp1/ColorAdditions [source-code]/ColorAdditions/obj/Debug/ColorAdditions.vbproj.GenerateResource.cache
+/Users/adamjost/Desktop/ColorAdditions_Grp1/ColorAdditions [source-code]/ColorAdditions/obj/Debug/ColorAdditions.vbproj.CoreCompileInputs.cache
+/Users/adamjost/Desktop/ColorAdditions_Grp1/ColorAdditions [source-code]/ColorAdditions/obj/Debug/ColorAdditions.exe
+/Users/adamjost/Desktop/ColorAdditions_Grp1/ColorAdditions [source-code]/ColorAdditions/obj/Debug/ColorAdditions.xml
+/Users/adamjost/Desktop/ColorAdditions_Grp1/ColorAdditions [source-code]/ColorAdditions/obj/Debug/ColorAdditions.pdb
